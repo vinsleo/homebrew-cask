@@ -1,5 +1,5 @@
 cask 'sts' do
-  version '3.9.1.RELEASE,4.7.1a'
+  version '3.9.2.RELEASE,4.7.2'
   sha256 '17bdeecd0b485b02475a2b32f06d61b23450fca14d45acc18a557fc707fb657b'
 
   # download.springsource.com/release/STS was verified as official when first introduced to the cask
